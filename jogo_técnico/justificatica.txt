@@ -1,0 +1,4 @@
+    Eu escolhi "pack()" da biblioteca tkinter por que foi a função que eu entendi melhor como usar entre 
+as três que foram propostas a pesquisar, entendi que o pack funciona para centralizar o conteúdo escolhido 
+no meio da janela que foi aberta usando o nome da variável no qual o produto foi escolhido e depois o pack 
+por exemplo: exemplo.pack().
